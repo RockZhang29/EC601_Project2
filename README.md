@@ -1,6 +1,7 @@
 # EC601_Project2
-This Project is EC601 Project 2 about using Twitter API.
+This Project is EC601 Project 2.
 This ipynb file is written by Python in Juypter notebook. 
+About Twitter API program.
 Step 1: Create a Twitter account
 
 Step 2: create an account for Tweepy and get permission to call.
@@ -21,4 +22,8 @@ result:
 3. It is able to creat a form and show the data of the people I subscribe to.
 4. It is also able to show the text of the subscriber.
 
-The phase1(b) the GOOGLE NLP program include in it. For the NLP part, the program is able to handle a list of sentences and give a emotion score for this.
+About Google NLP program:
+Natural Language processing has a lot of branches. Sentiment analysis is one of them. Sentiment analysis can be defined as classifying text into different classes based on its texture. For gathering meaningful information from a text and use AI for classification use of IMDB dataset has been considered. IMDb reviews consist of 50,000 movie reviews in English (25,000 for training, 25,000 for testing) extracted from the famous Internet Movie Database, along with a simple binary target for each review indicating whether it is negative (0) or positive (1). This data set is very simple and has been decoded and preprocessed before. So, the input of training and testing for this data is number instead of alphabetic character. Labels of these reviews are stored as "0" and "1". For dealing with this classification task 2-layer GRU with 2 layers of dropout among them have been used. The structure of the models and their parameters has shown in Figure1. 
+![微信图片_20211101095423](https://user-images.githubusercontent.com/72896630/139682850-d655bc7f-d0a7-47bc-b1c3-01aa4002d855.png)
+
+
