@@ -38,6 +38,7 @@ Figure 1. Specification and information of model. Many of these reviews are very
 
 About the Model:
 User Story:
+
 Assume I'm a pollster and I want to see if there's more positive or negative tweets about the presidential candidates during the U.S. election campaign. To predict the who will win the election.
 
 I created a model to extract API information and assess their emotional scores. The result is shown in the figure below: ![8638d7c387e1549813a5e45ee73205b](https://user-images.githubusercontent.com/72896630/139686393-4b7672ed-6d64-49b4-b0bf-362f367b4977.png)
