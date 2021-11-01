@@ -2,6 +2,8 @@
 This Project is EC601 Project 2.
 This ipynb file is written by Python in Juypter notebook. 
 About Twitter API program.
+User Story: As a journalist, I want to use the Social Media Analyzer to realize what kinds of twitter do people like to post during their daily life, and build the flash-news by those topics who owning high sentiments.
+
 Step 1: Create a Twitter account
 
 Step 2: create an account for Tweepy and get permission to call.
