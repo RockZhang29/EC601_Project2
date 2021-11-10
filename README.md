@@ -46,3 +46,4 @@ I created a model to extract API information and assess their emotional scores. 
 
 We can see that this model carries out mean and variance operations on the emotional score of tweets.
 
+For the Unit test, it is not easy for me to write a python test. So I would like to try it on Jupyter notebook. I wirte down some code to test my twitter API code.
